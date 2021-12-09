@@ -1,4 +1,4 @@
 # TypingTest
 Typing test in tkinter.
 
-![TypingTestTkinter](typingtest.png)
+![TypingTestTkinter](typingtest.PNG)
